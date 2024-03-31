@@ -8,6 +8,7 @@
 
 
 ## General Information
+- Dataset can be downloaded here : https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view
 - This project aims to build a multiclass classification model using a custom convolutional neural network (CNN) in TensorFlow to accurately detect melanoma, a deadly type of skin cancer.
 - The dataset used for this project consists of 2357 images of malignant and benign oncological diseases, including melanoma, obtained from the International Skin Imaging Collaboration (ISIC).
 - The goal is to develop a solution that can evaluate images and alert dermatologists about the presence of melanoma, thereby reducing manual effort needed in diagnosis.
